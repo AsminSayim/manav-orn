@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\bin\Debug\Manavornk.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\bin\Debug\Manavornk.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\bin\Debug\Manavornk.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\Manavornk\Manavornk\obj\Debug\Manavornk.pdb

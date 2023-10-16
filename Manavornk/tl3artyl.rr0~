@@ -1,0 +1,102 @@
+﻿namespace Manavornk
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.txtManav = new System.Windows.Forms.TextBox();
+            this.btnEkle = new System.Windows.Forms.Button();
+            this.lstSepet = new System.Windows.Forms.ListBox();
+            this.btnSil = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // txtManav
+            // 
+            this.txtManav.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.txtManav.Location = new System.Drawing.Point(70, 84);
+            this.txtManav.Name = "txtManav";
+            this.txtManav.Size = new System.Drawing.Size(141, 29);
+            this.txtManav.TabIndex = 0;
+            this.txtManav.TextChanged += new System.EventHandler(this.txtManav_TextChanged);
+            // 
+            // btnEkle
+            // 
+            this.btnEkle.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnEkle.Location = new System.Drawing.Point(70, 124);
+            this.btnEkle.Name = "btnEkle";
+            this.btnEkle.Size = new System.Drawing.Size(141, 33);
+            this.btnEkle.TabIndex = 1;
+            this.btnEkle.Text = "Sepete Ekle";
+            this.btnEkle.UseVisualStyleBackColor = true;
+            this.btnEkle.Click += new System.EventHandler(this.btnEkle_Click);
+            // 
+            // lstSepet
+            // 
+            this.lstSepet.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lstSepet.FormattingEnabled = true;
+            this.lstSepet.ItemHeight = 24;
+            this.lstSepet.Location = new System.Drawing.Point(249, 84);
+            this.lstSepet.Name = "lstSepet";
+            this.lstSepet.Size = new System.Drawing.Size(135, 100);
+            this.lstSepet.TabIndex = 2;
+            // 
+            // btnSil
+            // 
+            this.btnSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnSil.Location = new System.Drawing.Point(70, 163);
+            this.btnSil.Name = "btnSil";
+            this.btnSil.Size = new System.Drawing.Size(141, 41);
+            this.btnSil.TabIndex = 3;
+            this.btnSil.Text = "Sil";
+            this.btnSil.UseVisualStyleBackColor = true;
+            this.btnSil.Click += new System.EventHandler(this.btnSil_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(546, 427);
+            this.Controls.Add(this.btnSil);
+            this.Controls.Add(this.lstSepet);
+            this.Controls.Add(this.btnEkle);
+            this.Controls.Add(this.txtManav);
+            this.Name = "Form1";
+            this.Text = "Manav";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TextBox txtManav;
+        private System.Windows.Forms.Button btnEkle;
+        private System.Windows.Forms.ListBox lstSepet;
+        private System.Windows.Forms.Button btnSil;
+    }
+}
+
